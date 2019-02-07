@@ -68,9 +68,9 @@ search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : 35M40SC5HK # YOUR_APPLICATION_ID
+  index_name             : dev_INDEX # YOUR_INDEX_NAME
+  search_only_api_key    : d1239ab39d1b21d097046710c4a83e93 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
